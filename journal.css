@@ -1,0 +1,9 @@
+.journal-page { min-height: 70vh; }
+.journal-page h1 { font-size: clamp(2rem, 4vw, 3rem); margin: 10px 0 18px; }
+.journal-intro { color: var(--muted); margin-bottom: 40px; }
+.journal-entry { background: var(--white); border: 1px solid #e6e0d5; border-left: 4px solid var(--gold); border-radius: 8px; padding: 28px 32px; margin: 0 0 25px; box-shadow: 0 4px 16px rgba(33,75,60,.05); }
+.journal-entry h2 { font-size: clamp(1.3rem, 2.5vw, 1.75rem); margin: 8px 0 14px; }
+.journal-date { color: var(--muted); font-size: .88rem; font-weight: 600; }
+.journal-entry p { margin: 0 0 16px; }
+.journal-entry p:last-child { margin-bottom: 0; }
+@media (max-width: 768px) { .journal-entry { padding: 22px 20px; } }
