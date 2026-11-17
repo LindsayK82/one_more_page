@@ -3,6 +3,13 @@
 // Remove or replace this sample entry when you are ready to publish your own story.
 window.journalEntries = [
   {
+    date: "2026-11-17",
+    title: "Making Progress",
+    paragraphs: [
+      "One More Page is really taking off now! Over the last week, I've been collecting donated books and magazines from some lovely neighbors on the NextDoor app. There are several more who want to drop off books locally when the donation boxes are set up. I got the boxes in thr mail, and I'll be assembling them this weekend to distribute. Today, I'll go an talk to a couple more books stores to see if they'll host a donation box. So far, everything is going well. I'm looking forward to placing the first shelf!"
+    ]
+  },
+  {
     date: "2026-11-10",
     title: "Welcome to the Journal",
     paragraphs: [
